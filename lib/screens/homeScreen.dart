@@ -164,7 +164,7 @@ class _HomescreenState extends State<Homescreen>
                   });
                 }
               },
-              child: Text("Calculate now",
+              child: Text("Calculate",
                   style: GoogleFonts.ubuntu(
                     textStyle: TextStyle(
                       color: mainHexColor,
